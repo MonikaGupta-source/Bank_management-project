@@ -32,7 +32,7 @@ Basic banking logic implementation
 
 ## 📂 Project Structure
 Bank_management_project/
-- │── app.py
+- │── frontend.py
 - │── main.py
 - │── data.json
 
